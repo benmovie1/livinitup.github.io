@@ -230,12 +230,12 @@ button:focus {
   background: #D6274D;
 }
 
-.social-icon li .linkedin:hover {
-  background: #1260A2;
+.social-icon li .spotify:hover {
+  background: #1DB954;
 }
 
-.social-icon li .google:hover {
-  background: #CE332A;
+.social-icon li .itunes:hover {
+  background: #CC45F2);
 }
 
 /* ScrollToTop */
